@@ -204,7 +204,7 @@ def Local_entrega(df):
 #-----------------------------------------
 # Import dataset
 #-----------------------------------------
-df_ = pd.read_csv('dataset\train.csv')
+df_ = pd.read_csv('dataset/train.csv')
 
 #-----------------------------------------
 # Limpendo os dados
