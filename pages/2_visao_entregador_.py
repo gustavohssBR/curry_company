@@ -134,7 +134,7 @@ def avaliação_media(df,col1=[],group=[],col2=[]):
 #-----------------------------------------
 # Import dataset
 #-----------------------------------------
-df_ = pd.read_csv(r'./dataset\train.csv')
+df_ = pd.read_csv(r'./dataset/train.csv')
 
 #-----------------------------------------
 # Limpendo os dados
